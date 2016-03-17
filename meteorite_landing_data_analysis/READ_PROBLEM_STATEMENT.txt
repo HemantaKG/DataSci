@@ -1,0 +1,18 @@
+Going through the data, one can see that following are some of the data which have been
+provided:
+
+[Id
+ recclass : Some classification
+ mass
+ Fall : Fell/Found
+ Year when recording made
+ GeoLocation Data (Latitude, Longitude)]
+ 
+Write a program to read the data and figure out the following:
+1) Number of recordings grouped by recclass.
+2) Heaviest and Lightest Meteorite landing recorded.
+3) Number of recordings per 10 year period (like ...,1900-1909, 1910-1919,... ).
+    Display results sorted by:
+      A. Year Range, Ascending.
+      B. Number of recordings in Range, Descending.
+4) Average mass of meteorites in recorded data.
